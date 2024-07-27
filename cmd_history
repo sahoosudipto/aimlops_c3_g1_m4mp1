@@ -64,3 +64,94 @@
    64  ls
    65  python main.py 
    66  history
+   67  piplist
+   68  pip list
+   69  pwd
+   70  cd ..
+   71  docker build -t bikeshare_model_api/ .
+   72  cd bikeshare_model_api/
+   73  ls
+   74  docker build -t bikeshare_model_api .
+   75  docker images
+   76  pwd
+   77  docker build -t bikeshare_model_api .
+   78  cd ..
+   79  cd bikeshare_model_api/
+   80  docker build -t bikeshare_model_api .
+   81  pwd
+   82  cd ..
+   83  docker build -t bikeshare_model_api .
+   84  docker images
+   85  docker build -t bikeshare_model_api:m4mp1_v01 .
+   86  docker images
+   87  docker run -p 4000:8000 bikeshare_model_api:m4mp1_v01 
+   88  docker build -t bikeshare_model_api:m4mp1_v02 .
+   89  docker run -p 4000:8000 bikeshare_model_api:m4mp1_v02 
+   90  docker build -t bikeshare_model_api:m4mp1_v03 .
+   91  docker run -p 4000:8000 bikeshare_model_api:m4mp1_v03 
+   92  docker build -t bikeshare_model_api:m4mp1_v04 .
+   93  cd bikeshare_model_api/
+   94  clear
+   95  docker build -t bikeshare_model_api:m4mp1_v11 .
+   96  ls
+   97  ls ./
+   98  ls ../
+   99  cd ..
+  100  docker build -t bikeshare_model_api:m4mp1_v11 .
+  101  docker images
+  102  docker run -p 4000:8001 bikeshare_model_api:m4mp1_v11 
+  103  docker login
+  104  docker tag bikeshare_model_api aimlc3sudipto/bikeshare_model_api:m4mp1_v01 
+  105  docker push aimlc3sudipto/bikeshare_model_api:m4mp1_v01 
+  106  docker login -u aimlc3sudipto
+  107  docker tag bikeshare_model_api aimlc3sudipto/bikeshare_model_api:m4mp1_v01 
+  108  docker push aimlc3sudipto/bikeshare_model_api:m4mp1_v01 
+  109  git status
+  110  git add .
+  111  git status
+  112  git commit -m "Dockerfile added"
+  113  git poush origin
+  114  git push origin
+  115  git pull 
+  116  git push origin
+  117  git pull origin
+  118  git push origin
+  119  git config pull.ff only 
+  120  git push origin
+  121  git pull
+  122  git merge --no-ff
+  123  git pull
+  124  git push origin
+  125  git pull
+  126  git status
+  127  git add .
+  128  git commit 
+  129  git add .
+  130  git status
+  131  git push origin
+  132  git status
+  133  git add ../.github/workflows/main.yml
+  134  git status
+  135  git commit 
+  136  git commit -m "action path updated"
+  137  git push
+  138  git add ../.github/workflows/main.yml
+  139  git commit -m "action path updated"
+  140  git push
+  141  git add ../.github/workflows/main.yml
+  142  git commit -m "action path updated"
+  143  git push
+  144  git add ../.github/workflows/main.yml
+  145  git commit -m "action path updated"
+  146  git push
+  147  git add ../.github/workflows/main.yml
+  148  git commit -m "action path updated"
+  149  git push
+  150  git add ../.github/workflows/main.yml
+  151  git commit -m "action path updated"
+  152  git push
+  153  git add ../.github/workflows/main.yml
+  154  git commit -m "action path updated"
+  155  git push
+  156  git status
+  157  history
