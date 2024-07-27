@@ -1,0 +1,66 @@
+ 1  git staus
+    2  git status
+    3  source m4mp1_venv/bin/activate
+    4  pytest
+    5  clear
+    6  cd bikeshare_project/
+    7  python bikeshare_model/train_pipeline.py 
+    8  pip list
+    9  pip uninstall pydantic
+   10  python bikeshare_model/train_pipeline.py 
+   11  pip install pydantic>=1.8.1,<2.0.0
+   12  pip install pydantic>=1.8.1
+   13  pip list
+   14  python bikeshare_model/train_pipeline.py 
+   15  pip uninstall pydantic
+   16  pip install pydantic<=2.0.0
+   17  pip install pydantic<=2.1.0
+   18  pip install pydantic<2.8.2
+   19  pip install pydantic<'2.8.2'
+   20  pip install "pydantic<2.0.0"
+   21  python bikeshare_model/train_pipeline.py 
+   22  python bikeshare_model/predict.py 
+   23  pytest
+   24  pylint
+   25  pwd
+   26  pylint ./bikeshare_model/train_pipeline.py 
+   27  black
+   28  black bikeshare_model
+   29  pylint bikeshare_model
+   30  clear
+   31  pwd
+   32  build
+   33  pip install build 
+   34  build
+   35  clear
+   36  pip list
+   37  python build
+   38  python build bikeshare_model
+   39  cd bikeshare_model
+   40  clear
+   41  python build
+   42  cd..
+   43  pwd
+   44  cd ..
+   45  clear
+   46  ls
+   47  python build all
+   48  python build bikeshare_model
+   49  clear
+   50  pwd
+   51  python build bikeshare_model
+   52  pylint bikeshare_model
+   53  black bikeshare_model
+   54  pylint bikeshare_model
+   55  black bikeshare_model
+   56  clear
+   57  python -m build
+   58  pip list
+   59  pwd
+   60  cd bikeshare_model_api/
+   61  ls
+   62  pip install -r requirements.txt 
+   63  cd app/
+   64  ls
+   65  python main.py 
+   66  history
