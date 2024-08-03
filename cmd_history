@@ -158,3 +158,4 @@
 
 ##working on runners with ec2 instance
 fixed python version
+docker installed in ec2 instance
