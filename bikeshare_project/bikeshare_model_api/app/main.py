@@ -27,6 +27,7 @@ def index(request: Request) -> Any:
         "<html>"
         "<body style='padding: 10px;'>"
         "<h1>Welcome to the API</h1>"
+        "<h2>API hosted in ec2</h2>"
         "<div>"
         "Check the docs: <a href='/docs'>here</a>"
         "</div>"
